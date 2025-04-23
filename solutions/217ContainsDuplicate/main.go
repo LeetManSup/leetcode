@@ -4,8 +4,6 @@ appears at least twice in the array, and return false
 if every element is distinct.
 */
 
-package containsduplicate
-
 func containsDuplicate(nums []int) bool {
 	if len(nums) < 2 {
 		return false
