@@ -1,5 +1,7 @@
 # leetcode
 
+## Arrays, Hashing
+
 |№|Title|Tag|Go code|Python code|
 |:-|:-|:-|:-|:-|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|Array, Hash Table, Sorting|[Go Link](https://github.com/LeetManSup/leetcode/blob/main/solutions/217ContainsDuplicate/main.go)|[Python Link](https://github.com/LeetManSup/leetcode/blob/main/solutions/217ContainsDuplicate/main.py)|
@@ -10,3 +12,10 @@
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|Array, Prefix Sum|[Go Link](https://github.com/LeetManSup/leetcode/blob/main/solutions/238ProductOfArrayExceptSelf/main.go)|[Python Link](https://github.com/LeetManSup/leetcode/blob/main/solutions/238ProductOfArrayExceptSelf/main.py)|
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/)|Array, Hash Table, Matrix|[Go Link](https://github.com/LeetManSup/leetcode/blob/main/solutions/36ValidSudoku/main.go)|[Python Link](https://github.com/LeetManSup/leetcode/blob/main/solutions/36ValidSudoku/main.py)|
 |128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/)|Array, Hash Table, Union Find|[Go Link](https://github.com/LeetManSup/leetcode/blob/main/solutions/128LongestConsecutiveSequence/main.go)|[Python Link](https://github.com/LeetManSup/leetcode/blob/main/solutions/128LongestConsecutiveSequence/main.py)|
+
+## Two pointers
+
+|№|Title|Tag|Go code|Python code|
+|:-|:-|:-|:-|:-|
+|125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/)|Two Pointers
+String|[Go Link](https://github.com/LeetManSup/leetcode/blob/main/solutions/125ValidPalindrome/main.go)|[Python Link](https://github.com/LeetManSup/leetcode/blob/main/solutions/125ValidPalindrome/main.py)|
