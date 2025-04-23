@@ -18,3 +18,4 @@
 |№|Title|Tag|Go code|Python code|
 |:-|:-|:-|:-|:-|
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/)|Two Pointers, String|[Go Link](https://github.com/LeetManSup/leetcode/blob/main/solutions/125ValidPalindrome/main.go)|[Python Link](https://github.com/LeetManSup/leetcode/blob/main/solutions/125ValidPalindrome/main.py)|
+|167|[Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)|Array, Two Pointers, Binary Search|[Go Link](https://github.com/LeetManSup/leetcode/blob/main/solutions/167TwoSumII-InputArrayIsSorted/main.go)|[Python Link](https://github.com/LeetManSup/leetcode/blob/main/solutions/167TwoSumII-InputArrayIsSorted/main.py)|
