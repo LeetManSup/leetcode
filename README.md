@@ -28,3 +28,5 @@
 |№|Title|Tag|Go code|Python code|
 |:-|:-|:-|:-|:-|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)|Array, Dynamic Programming|[Go Link](https://github.com/LeetManSup/leetcode/blob/main/solutions/121BestTimeToBuyAndSellStock/main.go)|[Python Link](https://github.com/LeetManSup/leetcode/blob/main/solutions/121BestTimeToBuyAndSellStock/main.py)|
+|3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)|Hash Table, String, Sliding Window|[Go Link](https://github.com/LeetManSup/leetcode/blob/main/solutions/3LongestSubstringWithoutRepeatingCharacters/main.go)|[Python Link](https://github.com/LeetManSup/leetcode/blob/main/solutions/3LongestSubstringWithoutRepeatingCharacters/main.py)|
+
