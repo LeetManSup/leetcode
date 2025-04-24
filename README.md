@@ -23,7 +23,7 @@
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/)|Array, Two Pointers, Greedy|[Go Link](https://github.com/LeetManSup/leetcode/blob/main/solutions/11ContainerWithMostWater/main.go)|[Python Link](https://github.com/LeetManSup/leetcode/blob/main/solutions/11ContainerWithMostWater/main.py)|
 |42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack|[Go Link](https://github.com/LeetManSup/leetcode/blob/main/solutions/42TrappingRainWater/main.go)|[Python Link](https://github.com/LeetManSup/leetcode/blob/main/solutions/42TrappingRainWater/main.py)|
 
-## Two pointers
+## Sliding window
 
 |№|Title|Tag|Go code|Python code|
 |:-|:-|:-|:-|:-|
