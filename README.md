@@ -33,3 +33,9 @@
 |567|[Permutation in String](https://leetcode.com/problems/permutation-in-string/description/)|Hash Table, Two Pointers, String, Sliding Window|[Go Link](https://github.com/LeetManSup/leetcode/blob/main/solutions/567PermutationInString/main.go)|[Python Link](https://github.com/LeetManSup/leetcode/blob/main/solutions/567PermutationInString/main.py)|
 |76|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/)|Hash Table, String, Sliding Window|[Go Link](https://github.com/LeetManSup/leetcode/blob/main/solutions/76MinimumWindowSubstring/main.go)|[Python Link](https://github.com/LeetManSup/leetcode/blob/main/solutions/76MinimumWindowSubstring/main.py)|
 |239|[Sliding Window Maximum](https://leetcode.com/problems/minimum-window-substring/description/)|Array, Queue, Sliding Window, Heap (Priority Queue), Monotonic Queue|[Go Link](https://github.com/LeetManSup/leetcode/blob/main/solutions/239SlidingWindowMaximum/main.go)|[Python Link](https://github.com/LeetManSup/leetcode/blob/main/solutions/239SlidingWindowMaximum/main.py)|
+
+## Stack
+
+|№|Title|Tag|Go code|Python code|
+|:-|:-|:-|:-|:-|
+|20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)|String, Stack|[Go Link](https://github.com/LeetManSup/leetcode/blob/main/solutions/20ValidParentheses/main.go)|[Python Link](https://github.com/LeetManSup/leetcode/blob/main/solutions/20ValidParentheses/main.py)|
