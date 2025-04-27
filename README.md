@@ -39,3 +39,4 @@
 |№|Title|Tag|Go code|Python code|
 |:-|:-|:-|:-|:-|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)|String, Stack|[Go Link](https://github.com/LeetManSup/leetcode/blob/main/solutions/20ValidParentheses/main.go)|[Python Link](https://github.com/LeetManSup/leetcode/blob/main/solutions/20ValidParentheses/main.py)|
+|155|[Min Stack](https://leetcode.com/problems/min-stack/description/)|Stack, Design|[Go Link](https://github.com/LeetManSup/leetcode/blob/main/solutions/155MinStack/main.go)|[Python Link](https://github.com/LeetManSup/leetcode/blob/main/solutions/155MinStack/main.py)|
